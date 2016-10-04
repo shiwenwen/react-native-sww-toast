@@ -10,6 +10,8 @@
 		//location:string ('top','center','bottom') Toast位置 上中下 默认中间显示
 		// touchTohidden:bool 点击Toast时是否自动消失 默认为false 点击toast无效 。
 		
+###演示
+ ![image](https://github.com/shiwenwen/react-native-sww-toast/blob/master/ToastCenter.gif)
 
 
 
